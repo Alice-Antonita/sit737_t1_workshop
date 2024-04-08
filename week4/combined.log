@@ -1,0 +1,24 @@
+{"level":"info","message":"Parameters 22 and 56 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 22 and 56 received for addition","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for modulo","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for modulo","service":"calculate-service"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Square root of 4","service":"calculate-service"}
+{"level":"info","message":"Square root of 4","service":"calculate-service"}
+{"level":"info","message":"Base 4 raised to exponent 2","service":"calculate-service"}
+{"level":"info","message":"Base 4 raised to exponent 2","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for modulo","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for modulo","service":"calculate-service"}
+{"level":"info","message":"Square root of 16","service":"calculate-service"}
+{"level":"info","message":"Square root of 16","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for modulo","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for modulo","service":"calculate-service"}
