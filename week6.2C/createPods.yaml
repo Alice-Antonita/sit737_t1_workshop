@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+  labels:
+    tier: frontend
+spec:
+  containers:
+  - image: s223264153/sit737-project:1.1.1
+    name: sit737-project
+    ports:
+    - containerPort: 3040
+  dnsPolicy: ClusterFirst
+  restartPolicy: Always
+  

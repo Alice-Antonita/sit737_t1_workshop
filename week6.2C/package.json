@@ -1,0 +1,14 @@
+{
+  "name": "week6.2c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tourism_recommendations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
