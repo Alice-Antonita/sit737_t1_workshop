@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: mongo-pv
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteMany
+  local:
+    path: /run/desktop/mnt/host/C/Users/Alice - Work space/OneDrive/Documents/Assignments/SIT737/projects/sit737_t1_workshop/week9/MyMappedFolder
+  nodeAffinity:
+    required:
+      nodeSelectorTerms:
+        - matchExpressions:
+            - key: kubernetes.io/hostname
+              operator: In
+              values:
+                - docker-desktop
